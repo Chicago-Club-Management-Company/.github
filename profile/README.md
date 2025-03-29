@@ -1,15 +1,20 @@
-## Hi there 👋
+# Welcome to CCMC! 🚀
 
-<!--
+<img alt="CCMC Badge" src="https://custom-icon-badges.demolab.com/badge/CCMC-rgb(33%2C86%2C118)?style=flat-square&logo=transformed_logo" height="50">
 
-**Here are some ideas to get you started:**
+## Who are we? 🧪
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-Hello!
+We are a group of scientists and mathematicians specializing in time series forecasting to help businesses and investors navigate volatile markets with confidence.
 
-<img alt="Static Badge" src="https://custom-icon-badges.demolab.com/badge/CCMC-rgb(33%2C86%2C118)?style=flat-square&logo=transformed_logo" height="50">
+## What do we do? 🛠
+
+We build simple (yet powerful) models that analyze historical and real-time data to provide actionable insights for:
+
+- Financial markets 💸
+- Supply chains 🚛
+- Risk management ⚠
+- and more! 🌍
+
+## Featured Projects 📌
+
+- [aqua-blue](https://github.com/Chicago-Club-Management-Company/aqua-blue) 🌊
