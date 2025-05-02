@@ -4,7 +4,7 @@
 
 ## Who are we? 🧪
 
-We are a group of scientists and mathematicians specializing in time series forecasting to help businesses and investors navigate volatile markets with confidence.
+We are a group of scientists, mathematicians and engineersspecializing in time series forecasting to help businesses and investors navigate volatile markets with confidence.
 
 ## What do we do? 🛠
 
