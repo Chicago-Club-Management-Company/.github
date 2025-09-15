@@ -1,4 +1,4 @@
-# Welcome to CCMC! 🚀
+# Welcome to CCMC Advanced Technologies Inc! 🚀
 
 <img alt="CCMC Badge" src="https://custom-icon-badges.demolab.com/badge/CCMC-rgb(33%2C86%2C118)?style=flat-square&logo=transformed_logo" height="50">
 
