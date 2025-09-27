@@ -18,5 +18,6 @@ We build simple (yet powerful) models that analyze historical and real-time data
 ## Featured Projects 📌
 
 - [aqua-blue](https://github.com/Chicago-Club-Management-Company/aqua-blue) 🌊
+- [ml-lab] (https://github.com/Chicago-Club-Management-Company/ml-lab)
 
   [![Custom shields.io](https://img.shields.io/badge/docs-brightgreen?logo=github&logoColor=green&label=gh-pages)](https://chicago-club-management-company.github.io/aqua-blue/) [![PyPI version shields.io](https://img.shields.io/pypi/v/aqua-blue.svg)](https://pypi.python.org/pypi/aqua-blue/)
